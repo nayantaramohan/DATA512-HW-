@@ -58,8 +58,13 @@ The sample code is under [licensed CC0](https://creativecommons.org/share-your-w
     },
     
 ## Snapshot of analysis output
-![Maximum Average and Minimum Average](step2a-minmaxavg-plot.png) 
 
+#### Maximum Average and Minimum Average
+![Maximum Average and Minimum Average](step2a-minmaxavg-plot.png) 
+#### Top 10 Peak Page Views
+![Top 10 Peak Page Views](step2b-top10peak-plot.png)
+#### Fewest Months of Data
+![Fewest Months of Data](step2c-fewest10-plot.png)
 
 ## Best practices for documentation
 - PEP 8 – Style Guide for Python Code ([Reference link](https://peps.python.org/pep-0008/))
