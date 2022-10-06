@@ -19,6 +19,7 @@ The sample code is under [licensed CC0](https://creativecommons.org/share-your-w
 ## Data files
 
 #### Repository tree
+```
 .
 ├── LICENSE
 ├── README.md
@@ -30,6 +31,7 @@ The sample code is under [licensed CC0](https://creativecommons.org/share-your-w
 ├── step2a-minmaxavg-plot.png
 ├── step2b-top10peak-plot.png
 ├── step2c-fewest10-plot.png
+```
 
 #### Description
 - **LICENSE** : a file that contains an MIT LICENSE for nayantaramohan/data-512-homework_1 repo.
@@ -56,6 +58,7 @@ The sample code is under [licensed CC0](https://creativecommons.org/share-your-w
     },
     
 ## Snapshot of analysis output
+![Maximum Average and Minimum Average](step2a-minmaxavg-plot.png) 
 
 
 ## Best practices for documentation
@@ -64,4 +67,7 @@ The sample code is under [licensed CC0](https://creativecommons.org/share-your-w
 - Use of intuitive variable and function names to ease in understanding
 - Appropriate comments and documentation provided for the data aquisition, data processing and data analysis steps
 - Description of all data files present in the repository mentioned
+
+## Author
+[Nayantara Mohan](https://github.com/nayantaramohan) 
 
